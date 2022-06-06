@@ -6,6 +6,20 @@ class FactorialExample{
       fact=fact*i;    
   }    
   System.out.println("Factorial of "+number+" is: "+fact);    
+
+ }
+
+# changes done by vishwa
+
+   // assign value using =+
+    var += a;
+    System.out.println("var using +=: " + var);
+
+    // assign value using =*
+    var *= a;
+    System.out.println("var using *=: " + var);
+  }
+
 ## changes done by prakash
 class Main {
 
@@ -22,5 +36,6 @@ class Main {
     System.out.println("The sum is: " + sum);
   }
 } 
+ main
 }  
 } 
